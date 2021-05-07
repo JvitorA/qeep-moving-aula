@@ -27,6 +27,7 @@ public class ExercicioQuatro {
 			posicaoX = teclado.nextInt();
 		}
 		
+		
 		System.out.println("Digite outra posicao do vetor: ");
 		int posicaoY = teclado.nextInt();
 		
